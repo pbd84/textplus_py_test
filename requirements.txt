@@ -1,0 +1,8 @@
+jsonpath_ng==1.7.0
+requests
+IPython
+PIL
+io
+IPython
+ipywidgets
+matplotlib
