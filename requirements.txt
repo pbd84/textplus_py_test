@@ -1,7 +1,7 @@
 jsonpath_ng==1.7.0
 requests
 IPython
-pillow
+pillow==11.2.1
 io
 IPython
 ipywidgets
