@@ -4,3 +4,4 @@ IPython
 pillow==11.2.1
 ipywidgets
 matplotlib
+pandas
