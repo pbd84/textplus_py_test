@@ -1,8 +1,6 @@
 jsonpath_ng==1.7.0
 requests
 IPython
-PIL
-io
-IPython
+pillow==11.2.1
 ipywidgets
 matplotlib
